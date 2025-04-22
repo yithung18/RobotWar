@@ -1,0 +1,9 @@
+M by N: 8 8
+turns: 100
+robots: 8
+TerminatorRoboCop  TR01_Gamma    random  random 
+TerminatorRoboCop  TR01_Gamma    random  random 
+TerminatorRoboCop  TR01_Gamma    random  random 
+UltimateRobot      UR01_Delta      random  random
+UltimateRobot      UR01_Delta      random  random 
+
